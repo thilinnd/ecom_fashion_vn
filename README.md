@@ -1,4 +1,4 @@
-# Reproducibility and Main Results — Fashion-VN set-v2
+# Reproducibility and Main Results — Fashion-VN 
 
 This document is the primary reference for reproducing the pipeline and verifying the project's reported results. The version described here is **set-v2**, which includes models for eight categories: `top`, `dress`, `pants`, `skirt`, `jacket`, `bag`, `hat`, and `set`.
 
